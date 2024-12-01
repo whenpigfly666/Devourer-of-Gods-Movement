@@ -6,4 +6,5 @@ Afterwards, you will get a simulation on the previously empty window.
 This simulation will have the base Beatblock screen as well as the Devourer of God's start location in red and end location in green.
 Type in 'y' to create the tag.
 The tag will be created next to wherever you've put the python script; because of this, you can just put the script in the tag folder in Beatblock.
+The tag will also hide the Devourer of Gods once it's movement is done.
 And presto ! it's a working Devourer of Gods. Hopefully, at least.
