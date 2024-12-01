@@ -1,5 +1,6 @@
 Men and Gentleladies, it's done ! You can use this wonderful little script to create your very own Devourer of Gods as a Beatblock tag !
 Here's how it works; you'll need to download the file an run it in any program that supports python and it's Turtle module.
+Make sure the sprites in your level file are named in the format "DoGPhase1Head.png"
 Running it will create an empty window. Ignore it until it says 'simulation displayed'.
 Answer every input (and don't put incoherent answers, this program is all but foolproof).
 Afterwards, you will get a simulation on the previously empty window.
